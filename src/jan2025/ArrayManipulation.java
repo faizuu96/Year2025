@@ -36,3 +36,11 @@ public class ArrayManipulation {
 
     }
 }
+
+
+/*5
+        0 1 2 3 4
+        1
+        Insert
+        5 5
+        0 1 2 3 4 5 */
