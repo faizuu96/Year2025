@@ -32,3 +32,14 @@ public class PhoneBook{
 
     }
 }
+/*
+input
+3
+amma my
+237538
+md faizuu
+76396252
+aeyisha siddiqa
+85848366
+
+ */
