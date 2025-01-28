@@ -42,4 +42,7 @@ md faizuu
 aeyisha siddiqa
 85848366
 
+when i enter a correct name output will come with a phone number
+if i enter wrong name then output failed
+
  */
