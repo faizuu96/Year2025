@@ -15,6 +15,7 @@ public class CurrencyConverter {
         exchangeRates.put("JPY",152.0);
         exchangeRates.put("SGD",1.34);
         exchangeRates.put("GBP",0.79);
+        exchangeRates.put("AED",3.66);
 
     }
 
@@ -27,9 +28,6 @@ public class CurrencyConverter {
         double toRate = exchangeRates.get(toCurrency);
 
         double amountInUSD = amount / fromRate;
-        return amountInUSD = toRate;
-
-
-
+        return amountInUSD * toRate;
     }
 }
